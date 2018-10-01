@@ -17,5 +17,12 @@
   "devDependencies": {
     "@webcomponents/webcomponentsjs": "latest",
     "http-server": "^0.11.1"
-  }
+  },
+  "bugs": {
+    "url" : "https://github.com/TravisMullen/research-element/issues",
+    "email" : "travis@travismullen.com"
+  },
+  "files": [
+    "index.js"
+  ]
 }
