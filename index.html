@@ -1,0 +1,26 @@
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Demo Stage</title>
+  <script src="./node_modules/@webcomponents/webcomponentsjs/webcomponents-loader.js" defer></script>
+  <script type="module" src="index.js"></script>
+  <style>
+    code {
+      text-align: center;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <h1>Do some stuff to this custom element in the browser console.</h1>
+  <code>
+    const elm = document.createElement('research-element')
+    document.body.appendChild(elm)
+    console.dir(elm)
+  </code>
+  <noscript>
+    You need javascript enabled, fam.
+  </noscript>
+</body>
+</html>

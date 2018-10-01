@@ -1,0 +1,21 @@
+{
+  "name": "research-element",
+  "version": "1.0.0",
+  "description": "Custom Element for testing scenarios including Attribute Observers, Custom Events and Shadow DOM.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "./node_modules/http-server/bin/http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravisMullen/research-element.git"
+  },
+  "author": "Travis Mullen",
+  "license": "MIT",
+  "homepage": "https://github.com/TravisMullen/research-element#readme",
+  "devDependencies": {
+    "@webcomponents/webcomponentsjs": "latest",
+    "http-server": "^0.11.1"
+  }
+}
