@@ -1,6 +1,6 @@
 {
   "name": "research-element",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Custom Element for testing scenarios including Attribute Observers, Custom Events and Shadow DOM.",
   "main": "index.js",
   "scripts": {
@@ -14,9 +14,6 @@
   "author": "Travis Mullen",
   "license": "MIT",
   "homepage": "https://github.com/TravisMullen/research-element#readme",
-  "devDependencies": {
-    "@webcomponents/webcomponentsjs": "latest"
-  },
   "bugs": {
     "url" : "https://github.com/TravisMullen/research-element/issues",
     "email" : "travis@travismullen.com"
